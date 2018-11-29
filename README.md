@@ -1,0 +1,1 @@
+# diploma_java_version
